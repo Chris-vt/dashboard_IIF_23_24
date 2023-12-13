@@ -1,0 +1,48 @@
+PCG_CD,IND_CODE,MEASURE_TYPE,FIX,MEASURE
+ACC-08,NCD026,DEN,,Number of appointments provided by the general practice that were mapped to one of the following eight national categories: - General Consultation Acute - General Consultation Routine - Unplanned Clinical Activity - Walk in - Triage - Home Visit - Care Home Visit - Care Related Encounter but does not fit into any other category.
+ACC-08,NCD026,DEN,,Number of appointments provided by the general practice that were mapped to one of the following eight national categories: - General Consultation Acute - General Consultation Routine - Unplanned Clinical Activity - Walk in - Triage  Home Visit - Care Home Visit - Care Related Encounter but does not fit into any other category.
+ACC-08,NCD026,NUM,,"Of the denominator, the number of appointments for which the time from booking to appointment was two weeks or less."
+CAN-02,NCD112,DEN,,Number of lower gastrointestinal two week wait (fast track) referrals for suspected cancer.
+CAN-02,NCD123,DEN,,Number of lower gastrointestinal two week wait (fast track) referrals for suspected cancer.
+CAN-02,NCD112,EXC,,GICANREF
+CAN-02,NCD112,NUM,,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test, with the result recorded*  either in the twenty one days leading up to the referral, or in the fourteen days after the referral (inclusive)."
+CAN-02,NCD112,NUM,,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test, with the result* recorded either in the twenty-one days leading up to the referral, or in the fourteen days after the referral (inclusive). *Recorded using the event date rather than the record date"
+CAN-02,NCD123,NUM,,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test (FIT), with the result recorded in the twenty-one days leading up to the referral."
+CAN-02,NCD112,OTHER,,Number of patients in set
+CAN-02,NCD112,PCA,,FAECIMMDEC
+CAN-02,NCD112,PCA,,FITNIDAT
+CAN-02,NCD123,PCA,,FAECIMMDEC
+CAN-02,NCD123,PCA,,FITNIDAT
+CAN-02,NCD123,UKN,,GICANREF
+HI-03,NCD005,DEN,,Number of patients on the OQF learning disability register aged 14 or over
+HI-03,NCD120,DEN,,Number of patients on the OQF learning disability register aged 14 or over
+HI-03,NCD005,EXC,,LD_DAT
+HI-03,NCD005,EXC,,PAT_AGEU14
+HI-03,NCD005,NUM,,"Of the denominator, the number who received an annual Learning Disability Health Check and a Health Action Plan by the end of the reporting period"
+HI-03,NCD120,NUM,,"Of the denominator, the number who received an annual Learning Disability Health Check, have a Health Action Plan and have a recording of ethnicity on their GP record by the end of the reporting period."
+HI-03,NCD005,OTHER,,Number of Patients in Set
+HI-03,NCD005,PCA,,HLTHAPDEC
+HI-03,NCD005,PCA,,HLTHCHKDEC
+HI-03,NCD120,UKN,PCA,HLTHAPDEC
+HI-03,NCD120,UKN,PCA,HLTHCHKDEC
+HI-03,NCD120,UKN,EXC,LD_DAT
+HI-03,NCD120,UKN,EXC,PAT_AGEU14
+VI-02,NCD003,DEN,,Number of patients aged 18 to 64 years in one or more at-risk groups subject to the new national call and recall system
+VI-02,NCD003,DEN,,Number of patients aged 18 to 64 years inclusive and in one or more at-risk groups subject to the new national call and recall system
+VI-02,NCD003,EXC,OTHER,N_AT_RISK
+VI-02,NCD003,EXC,,P_AGE18_64
+VI-02,NCD003,NUM,,"Of the denominator, number of patients who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period"
+VI-02,NCD003,OTHER,,Number of Patients in Set
+VI-02,NCD003,PCA,,FLUDEC_DAT
+VI-02,NCD003,PCA,,FLUEXPCON
+VI-02,NCD003,PCA,,FLUINVITE1
+VI-02,NCD003,PCA,,XFLU_DAT
+VI-03,NCD004,DEN,,Number of patients aged 2 to 3 on 31 August of the relevant financial year
+VI-03,NCD004,EXC,,P_AGE2_4
+VI-03,NCD004,NUM,,"Of the denominator, patients who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period"
+VI-03,NCD004,NUM,,"Of the denominator, the number who received a seasonal influenza vaccination between 1 September and the end of the reporting period."
+VI-03,NCD004,OTHER,,Number of Patients in Set
+VI-03,NCD004,PCA,,FLUDEC_DAT
+VI-03,NCD004,PCA,,FLUEXPCON
+VI-03,NCD004,PCA,,FLUINVITE1
+VI-03,NCD004,PCA,,XFLU_DAT

@@ -1,0 +1,679 @@
+IND_CODE,MEASURE,MEASURE_TYPE
+NCD001,"Of the denominator, the number referred to a social prescribing service by the end of the reporting period",NUM
+NCD001,"Of the denominator, the number referred to a social prescribing service on or after QSSD and up to and including RPED.",NUM
+NCD001,SOCPRESDEC,PCA
+NCD001,Total number of Registered Patients,DEN
+NCD002,FLUDEC_DAT,PCA
+NCD002,FLUEXPCON,PCA
+NCD002,FLUINVITE1,PCA
+NCD002,Number of patients aged 65 years or over,DEN
+NCD002,Number of Patients in Set,OTHER
+NCD002,"Of the denominator, patients who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period",NUM
+NCD002,PAT_AGEU65,EXC
+NCD002,XFLU_DAT,PCA
+NCD003,FLUDEC_DAT,PCA
+NCD003,FLUEXPCON,PCA
+NCD003,FLUINVITE1,PCA
+NCD003,N_AT_RISK,OTHER
+NCD003,Number of patients aged 18 to 64 years in one or more at-risk groups subject to the new national call and recall system,DEN
+NCD003,Number of patients aged 18 to 64 years inclusive and in one or more at-risk groups subject to the new national call and recall system,DEN
+NCD003,Number of Patients in Set,OTHER
+NCD003,"Of the denominator, number of patients who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period",NUM
+NCD003,P_AGE18_64,EXC
+NCD003,XFLU_DAT,PCA
+NCD004,FLUDEC_DAT,PCA
+NCD004,FLUEXPCON,PCA
+NCD004,FLUINVITE1,PCA
+NCD004,Number of patients aged 2 to 3 on 31 August of the relevant financial year,DEN
+NCD004,Number of Patients in Set,OTHER
+NCD004,"Of the denominator, patients who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period",NUM
+NCD004,"Of the denominator, the number who received a seasonal influenza vaccination between 1 September and the end of the reporting period.",NUM
+NCD004,P_AGE2_4,EXC
+NCD004,XFLU_DAT,PCA
+NCD005,HLTHAPDEC,PCA
+NCD005,HLTHCHKDEC,PCA
+NCD005,LD_DAT,EXC
+NCD005,Number of Patients in Set,OTHER
+NCD005,Number of patients on the OQF learning disability register aged 14 or over,DEN
+NCD005,"Of the denominator, the number who received an annual Learning Disability Health Check and a Health Action Plan by the end of the reporting period",NUM
+NCD005,PAT_AGEU14,EXC
+NCD010,"Of the denominator, the number of patients with a recording of ethnicity on their patient record at the end of the reporting period.",NUM
+NCD010,Total number of registered patients,DEN
+NCD011,ABPDEC12M,PCA
+NCD011,ABPDEC24M,PCA
+NCD011,BPLAT_1,EXC
+NCD011,BPLAT_2,EXC
+NCD011,BPLAT_DAT3,PCA
+NCD011,BPLAT6M,PCA
+NCD011,HYPLATUNR,EXC
+NCD011,Number of patients aged 18 or over with an elevated blood pressure reading (>= 140/90mmHg) and not on the QOF Hypertension Register.,DEN
+NCD011,"Number of patients aged 18 years or over, not on the QOF Hypertension Register as of 31 March 2023, and who have (i) a last recorded blood pressure reading in the 3 years prior to 1 April 2023 >= 140/90mmHg with the exception of patients whose first blood pressure reading >= 140/90mmHg in this period is on or after 1 October 2022 OR (ii) a blood pressure reading >= 140/90mmHg on or after 1 October 2022.",DEN
+NCD011,"Of the denominator, the number for whom there is evidence of clinically appropriate follow-up to confirm or exclude a diagnosis of hypertension.",NUM
+NCD011,"Of the denominator, the number for whom there is evidence of clinically appropriate follow-up* to confirm or exclude a diagnosis of hypertension (by 31 March for (i) and within 6 months for (ii)). Clinically appropriate follow-up: 1. Initial BP reading < 140/90 mmHg (only relevant for patients in (i)) OR 2. Initial BP reading >=140/90 mmHg AND a. Subsequent change of medication AND subsequent blood pressure reading of <140/90 mmHg OR b. Subsequent occurrence of Ambulatory Blood Pressure Monitoring OR c. Subsequent occurrence of Home Blood Pressure Monitoring OR d. ([Referrals listed in below table] recorded on same day as initial reading AND addition to QOF Hypertension Register) OR e. (Subsequent commencement of Antihypertensive therapy OR Patient declined antihypertensive treatment (ANTIHYPDEC_COD code cluster)) AND addition to QOF Hypertension Register",NUM
+NCD011,PALCARDAT2,EXC
+NCD011,PALCARE,EXC
+NCD011,PAT_AGEU18,EXC
+NCD011,PRELAT6M,UKN
+NCD011,Register of patients with established hypertension,UKN
+NCD012,Number of care home beds aligned to the PCN and eligible to receive the Network Contract DES Enhanced Health in Care Homes service.,DEN
+NCD012,"Number of care home beds eligible to receive the Network Contract DES Enhanced Health in Care Homes service, as reflected in the calculation of the care home bed premium. Denominator will be sourced from manual submission by PCNs/ICBs via CQRS.",DEN
+NCD012,Number of patients in set,OTHER
+NCD012,The number of patients aged 18 years or over and recorded as living in a care home (including a residential home or nursing home) at the end of the reporting period. (NB: Temporary care home residents should be included in this indicator numerator.),NUM
+NCD013,CARHOMDEC1,PCA
+NCD013,"Number of care home residents aged 18 years or over, including both permanent and temporary care home residents.",DEN
+NCD013,Number of general practice appointments categorised as patient contact as part of weekly care home round.,NUM
+NCD013,Number of patients in set,OTHER
+NCD013,NURSHOME,EXC
+NCD013,PAT_AGEU18,EXC
+NCD014,Number of patients in set,OTHER
+NCD014,Number of prescriptions for non-salbutamol inhalers issued to patients aged 12 years or over by the end of the reporting period.,DEN
+NCD014,"Of the denominator, the number of prescriptions that are for metered dose inhalers.",NUM
+NCD015,Number of registered patients on the QOF hypertension register in the base year,NUM_B
+NCD015,Number of registered patients on the QOF hypertension register.,NUM
+NCD015,Total number of registered patients in the base year.,DEN_B
+NCD015,Total number of Registered Patients.,DEN
+NCD017,Number of patients in set,OTHER
+NCD017,Number of salbutamol inhalers prescribed.,DEN
+NCD017,Total carbon emissions from all inhalers in the denominator (kg CO2e).,NUM
+NCD018,CARHOMDEC1,PCA
+NCD018,HOMETMP_18,EXC
+NCD018,"Number of care home residents aged 18 years or over, including both permanent and temporary care home residents",DEN
+NCD018,Number of patients in set,OTHER
+NCD018,"Of the denominator, the number who had a personalised care and support plan agreed or reviewed by the end of the reporting period.",NUM
+NCD018,"Of the denominator, the number who had a personalised care and support plan agreed or reviewed.",NUM
+NCD018,PCSPDEC,PCA
+NCD019,CARHOMDEC1,PCA
+NCD019,CARHOMNP18,EXC
+NCD019,Number of permanent care home residents aged 18 years or over (patients recorded as living in a residential home or nursing home and not subsequently recorded as being temporary care home residents),DEN
+NCD019,"Of the denominator, the number of patients who received at least one Structured Medication Review by the end of the reporting period",NUM
+NCD019,STRMEDRVDC,PCA
+NCD022,Standardised number of emergency admissions for specified Ambulatory Care Sensitive Conditions for patients in the denominator in the base year.,NUM_B
+NCD022,Standardised number of emergency admissions for specified Ambulatory Care Sensitive Conditions for patients in the denominator.,NUM
+NCD022,Total number of registered patients,DEN
+NCD022,Total number of registered patients in the base year.,DEN_B
+NCD025,"Total number of outpatient first attendances across twelve specialties identified for accelerated delivery (Cardiology, Dermatology, Gastroenterology, Gynaecology, Neurology, Urology, Paediatrics, Endocrinology, Haematology, Rheumatology, Respiratory, Ear, Nose and Throat.)",DEN
+NCD025,Total number of Specialist Advice requests across twelve specialties identified for accelerated delivery.,NUM
+NCD026,Number of appointments provided by the general practice that were mapped to one of the following eight national categories: - General Consultation Acute - General Consultation Routine - Unplanned Clinical Activity - Walk in - Triage - Home Visit - Care Home Visit - Care Related Encounter but does not fit into any other category.,DEN
+NCD026,Number of appointments provided by the general practice that were mapped to one of the following eight national categories: - General Consultation Acute - General Consultation Routine - Unplanned Clinical Activity - Walk in - Triage  Home Visit - Care Home Visit - Care Related Encounter but does not fit into any other category.,DEN
+NCD026,"Of the denominator, the number of appointments for which the time from booking to appointment was two weeks or less.",NUM
+NCD101,CHD_DAT,EXC
+NCD101,CHOLMX_DAT,PCA
+NCD101,Number of patients aged between 25 and 84 years inclusive and with a CVD risk score (QRISK2 or 3) greater than 20 percent.,DEN
+NCD101,Number of patients in set,OTHER
+NCD101,"Of the denominator, the number who are currently treated with statins.",NUM
+NCD101,P_AGE25_84,EXC
+NCD101,QRISKVAL20,EXC
+NCD101,STATDECAW,PCA
+NCD101,STATINTOL,PCA
+NCD101,TXSTAT_DAT,PCA
+NCD101,XSTAT_DAT,PCA
+NCD102,FAMHYPRDEC,PCA
+NCD102,NOCHOL2930,EXC
+NCD102,Number of patients aged 29 years or under with a total cholesterol greater than 7.5 OR aged 30 years or over with a total cholesterol greater than 9.0.,DEN
+NCD102,Number of patients aged 29 years or under with a total cholesterol greater than 7.5mmol/L OR aged 30 years or over with a total cholesterol greater than 9.0mmol/L.,DEN
+NCD102,Number of patients in set,OTHER
+NCD102,"Of the denominator, the number i) diagnosed with secondary hyperlipidaemia or ii) clinically assessed for familial hypercholesterolaemia,  or iii) referred for assessment for familial hypercholesterolaemia or iv) genetically diagnosed with familial hypercholesterolaemia.",NUM
+NCD102,"Of the denominator, the number i) diagnosed with secondary hyperlipidaemia or ii) clinically assessed for familial hypercholesterolaemia, or iii) referred for assessment for familial hypercholesterolaemia or iv) genetically diagnosed with familial hypercholesterolaemia",NUM
+NCD102,PALCARDAT2,PCA
+NCD103,AFIBL3M,PCA
+NCD103,CHADSFU2,EXC
+NCD103,DOACDVITKC,PCA
+NCD103,DOACDVITKD,PCA
+NCD103,DOACXVITKC,PCA
+NCD103,DOACXVITKD,PCA
+NCD103,GENORANTID,PCA
+NCD103,NFCHAD1NI,UKN
+NCD103,NOAFIBDIAG,EXC
+NCD103,Number of patients in set,OTHER
+NCD103,Number of patients on the QOF Atrial Fibrillation register and with a CHA2DS2-VASc score of 2 or more (1 or more for patients that are not female).,DEN
+NCD103,"Of the denominator, the number who were prescribed a direct-acting oral anticoagulant (DOAC), or, where a DOAC was declined or clinically unsuitable, a Vitamin K antagonist.",NUM
+NCD103,TXGORANTIC,UKN
+NCD103,VALVITKCON,PCA
+NCD103,VALVITKDEC,PCA
+NCD103,XGORANTICO,UKN
+NCD104,CHADSFU2,EXC
+NCD104,NOAFIBDIAG,EXC
+NCD104,NODOAC6M,EXC
+NCD104,Number of patients in set,OTHER
+NCD104,Number of patients on the QOF Atrial Fibrillation register with a CHA2DS2-VASc score of 2 or more (1 or more for patients that are not female) and who are currently prescribed a direct-acting oral anticoagulant (DOAC).,DEN
+NCD104,"Of the denominator, the number who are currently prescribed Edoxaban.",NUM
+NCD105,AST_DAT9M,PCA
+NCD105,ASTRES_DAT,EXC
+NCD105,MILDINTAST,PCA
+NCD105,Number of patients in set,OTHER
+NCD105,Number of patients on the QOF Asthma Register at the end of the reporting period.,DEN
+NCD105,"Of the denominator, the number who received three or more inhaled corticosteroid (ICS, inclusive of ICS/LABA) prescriptions over the previous 12 months.",NUM
+NCD106,ASTRES_DAT,EXC
+NCD106,EUNRESCOAS,EXC
+NCD106,Number of patients in set,OTHER
+NCD106,Number of patients on the QOF Asthma Register.,DEN
+NCD106,"Of the denominator, the number who received 6 or more Short Acting Beta-2 Agonist (SABA) inhaler prescriptions in the previous 12 months.",NUM
+NCD107,NOPQSNSDAC,EXC
+NCD107,Number of patients aged 18 years or over concurrently prescribed a non-steroidal anti-inflammatory drug (NSAID) and an oral anticoagulant in the last three months of the previous financial year.,DEN
+NCD107,Number of patients in set,OTHER
+NCD107,"Of the denominator, the number who, in the three months to the reporting period end date, were either 
+1. No longer prescribed an NSAID OR
+2. Prescribed a gastro-protective in addition to an NSAID.",NUM
+NCD107,"Of the denominator, the number who, in the three months to the reporting period end date, were either 1.	No longer prescribed an NSAID OR 2. Prescribed a gastro-protective in addition to an NSAID.",NUM
+NCD107,PAT_AGEU18,EXC
+NCD108,ACNOPQSNSD,EXC
+NCD108,Number of patients aged 65 years or over prescribed a non-steroidal anti-inflammatory drug (NSAID) without a concurrent oral anticoagulant in the last three months of the previous financial year,DEN
+NCD108,Number of patients in set,OTHER
+NCD108,"Of the denominator, the number who, in the three months to the reporting period end date, were either: 1. No longer prescribed an NSAID OR 2. Prescribed a gastro-protective in addition to an NSAID.",NUM
+NCD108,"Of the denominator, the number who, in the three months to the reporting period end date, were either: 1.No longer prescribed an NSAID OR
+2.Prescribed a gastro-protective in addition to an NSAID.",NUM
+NCD108,PAT_AGEU65,EXC
+NCD109,NOPQSACSAL,EXC
+NCD109,Number of patients aged 18 years or over concurrently prescribed an oral anticoagulant and an anti-platelet in the last three months of the previous financial year.,DEN
+NCD109,Number of patients in set,OTHER
+NCD109,"Of the denominator, the number who, in the three months to the reporting period end date, were either: 1. No longer prescribed an anti-platelet OR 2. Prescribed a gastro-protective in addition to an anti-platelet.",NUM
+NCD109,PAT_AGEU18,EXC
+NCD110,NOPQSSAL,EXC
+NCD110,Number of patients aged 18 years or over prescribed both aspirin (irrespective of dose/strength) and another anti-platelet in the last three months of the previous financial year.,DEN
+NCD110,Number of patients in set,OTHER
+NCD110,"Of the denominator, the number who, in the three months to the reporting period end date, were either 1. No longer prescribed aspirin and/or no longer prescribed an anti-platelet OR 2. Prescribed a gastro-protective in addition to both aspirin and another anti-platelet.",NUM
+NCD110,"Of the denominator, the number who, in the three months to the reporting period end date, were either: 1. No longer prescribed aspirin and/or no longer prescribed an anti-platelet OR 2. Prescribed a gastro-protective in addition to both aspirin and another anti-platelet.",NUM
+NCD110,PAT_AGEU18,EXC
+NCD111,DOAC3MDAT1,UKN
+NCD111,DOAC9MDAT1,UKN
+NCD111,L12MNODOAC,UKN
+NCD111,Number of patients in set,OTHER
+NCD111,Number of patients prescribed a direct-acting oral anticoagulant (DOAC) on or after the Quality Service Start Date and up to and including the reporting period end date.,DEN
+NCD111,"Of the denominator, the number who received a renal function test and have a recording of weight and Creatinine Clearance Rate (CCR), along with a recording that their DOAC dose was either confirmed (not changed) or changed",NUM
+NCD111,"Of the denominator, the number who received a renal function test and have a recording of weight and Creatinine Clearance Rate, along with a recording that their DOAC dose was either changed or confirmed (not changed).",NUM
+NCD112,FAECIMMDEC,PCA
+NCD112,FITNIDAT,PCA
+NCD112,GICANREF,EXC
+NCD112,Number of lower gastrointestinal two week wait (fast track) referrals for suspected cancer.,DEN
+NCD112,Number of patients in set,OTHER
+NCD112,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test, with the result recorded*  either in the twenty one days leading up to the referral, or in the fourteen days after the referral (inclusive).",NUM
+NCD112,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test, with the result* recorded either in the twenty-one days leading up to the referral, or in the fourteen days after the referral (inclusive). *Recorded using the event date rather than the record date",NUM
+NCD113,Number of referrals to the Community Pharmacist Consultation Service to patients in the denominator.,NUM
+NCD113,Total number of Registered Patients,DEN
+NCD114,MEDRVWDEC,PCA
+NCD114,NOMEDERR1,EXC
+NCD114,Number of patients in set,OTHER
+NCD114,"Of the denominator, the number who received at least one Structured Medication Review.",NUM
+NCD114,PALCARDAT2,PCA
+NCD114,PAT_AGEU18,EXC
+NCD114,Total number of patients at risk of harm due to medication errors.,DEN
+NCD115,Number of patients in set,OTHER
+NCD115,"Of the denominator, the number who received at least one Structured Medication Review.",NUM
+NCD115,PALCARDAT2,PCA
+NCD115,SEVFRAIL2,EXC
+NCD115,STRMEDRVDC,PCA
+NCD115,Total number of patients living with severe frailty.,DEN
+NCD116,Number of patients in set,OTHER
+NCD116,"Of the denominator, the number who received at least one Structured Medication Review.",NUM
+NCD116,PALCARDAT2,PCA
+NCD116,STRMEDRVDC,PCA
+NCD116,"Total number of patients using potentially addictive medicines, defined as patients falling into either one or both of the following sub-cohorts: Patients with 2 or more prescriptions over a 3-month* period (both of which must have occurred after the quality service start date) for any of the following four classes of medicine:a.Gabapentinoids b.Benzodiazepines c. Z-drugs d. Any oral or transdermal opioid other than: i. Weak opioids (Codeine, Dihydrocodeine, Meptazinol) ii. Heroin substitutes (including Methadone, Buprenorphine) e. EXCLUSION: any opioid prescribed to cancer patients (patients with a cancer diagnosis recorded in the previous 6 months, irrespective of whether this diagnosis is a first/new occurrence, a recurrence, or continuing condition) Patients with a single prescription for an oral or transdermal opioid with > 120 mg morphine equivalent.",DEN
+NCD117,AGEUM50F55,UKN
+NCD117,CVDDIAG,UKN
+NCD117,DECTESTQR,UKN
+NCD117,DIBFRISTAT,UKN
+NCD117,LIPIDTHER,UKN
+NCD117,"Number of men aged 50 years or over and women aged 55 years or over, without established cardiovascular disease and not on lipid lowering therapy*. *lipid lower therapy means people who have received a prescription for any of the below medications  in the 6 months upto and including the QSSD statins, ezetimibe, bempedoic acid, inclisiran, PCSK9i, or icosapent ethyl. [NOTE: this list includes lipid lowering therapies used for secondary prevention, so is a longer list than that used for CVD-08 which only uses therapies used for primary prevention]",DEN
+NCD117,"Of the denominator, the number who have a QRISK score recorded on their GP record in the preceding five years and who have a recording of cholesterol levels, blood pressure and smoking status in the 12 months preceding recording of the most recent QRISK score",NUM
+NCD117,PALCARE,UKN
+NCD120,HLTHAPDEC,PCA
+NCD120,HLTHCHKDEC,PCA
+NCD120,LD_DAT,EXC
+NCD120,Number of patients on the OQF learning disability register aged 14 or over,DEN
+NCD120,"Of the denominator, the number who received an annual Learning Disability Health Check, have a Health Action Plan and have a recording of ethnicity on their GP record by the end of the reporting period.",NUM
+NCD120,PAT_AGEU14,EXC
+NCD121,CHOLMX_DAT,UKN
+NCD121,CVDDIAG,UKN
+NCD121,DIABUNRES,UKN
+NCD121,Number of patients aged 25 to 84 years inclusive without established cardiovascular disease and with a last recorded  CVD risk score (QRISK2 or 3) > 20%.,DEN
+NCD121,"Of the denominator,the number who were prescribed statins, or where a statin is declined or clinically unsuitable, another lipid-lowering therapy in the six months to the end of the reporting period. Other lipid lowering therapies are ezetimibe and bempedoic acid, and no others. Clinically unsuitable is defined as (no ordering between these options - evaluate all simultaneously): Patients who have a persisting statin contraindication anywhere in the patient record. OR Patients who have an expiring statin contraindication in the 12 months to PPED OR413174003 Statin not tolerated (situation). Statin declined should be expiring in the 12 months to PPED",NUM
+NCD121,P_AGE25_84,UKN
+NCD121,PALCARDAT2,UKN
+NCD121,QRISKVAL20,UKN
+NCD121,STATLLTDEC,UKN
+NCD123,FAECIMMDEC,PCA
+NCD123,FITNIDAT,PCA
+NCD123,GICANREF,UKN
+NCD123,Number of lower gastrointestinal two week wait (fast track) referrals for suspected cancer.,DEN
+NCD123,"Of the denominator, the number of referrals accompanied by a faecal immunochemical test (FIT), with the result recorded in the twenty-one days leading up to the referral.",NUM
+NCDMI001,"Of the denominator, the number of patients who had a Personalised Care and Support Plan agreed by the end of the reporting period",NUM
+NCDMI001,Total number of Registered Patients,DEN
+NCDMI002,"Of the denominator, the number of patients who had a Personalised Care and Support Plan reviewed by the end of the reporting period",NUM
+NCDMI002,Total number of Registered Patients,DEN
+NCDMI003,"Of the denominator, the number of patients whose care was discussed as part of a shared decision-making process by the end of the reporting period",NUM
+NCDMI003,Total number of Registered Patients,DEN
+NCDMI004,"Of the denominator, the number of patients who chose not to accept a referral to a social prescribing service, up to and including by the end of the reporting period.",NUM
+NCDMI004,Total number of Registered Patients,DEN
+NCDMI010,CARHOMDEC1,PCA
+NCDMI010,HOMECONF18,EXC
+NCDMI010,Number of permanent care home residents aged 18 years or over (patients recorded as living in a residential home or nursing home and not subsequently recorded as being temporary care home residents) who were recorded as experiencing acute confusion on or after the Quality Service Start Date and up to and including the reporting period end date.,DEN
+NCDMI010,"Of the denominator, the number who received a delirium assessment after the recording of acute confusion and up to the end of the reporting period.",NUM
+NCDMI021,NO_OAC_12M,EXC
+NCDMI021,Number of distinct patients aged 18 and over who were prescribed an oral anticoagulant by the end of the reporting period,DEN
+NCDMI021,"Of the denominator, the number of patients whose oral anticoagulant prescribed was a Direct Oral Anti-Coagulant (DOAC)",NUM
+NCDMI021,PAT_AGEU18,EXC
+NCDMI023,"Of the denominator, the number of patients who were placed on an urgent referral pathway for suspected cancer by the end of the reporting period",NUM
+NCDMI023,Total number of Registered Patients,DEN
+NCDMI024,Number of patients who were placed on an urgent referral pathway for suspected cancer by the end of the reporting period,DEN
+NCDMI024,"Of the denominator, the number of patients for whom safety netting was recorded by the end of the reporting period",NUM
+NCDMI025,CARHOME_18,EXC
+NCDMI025,FLUDEC_DAT,PCA
+NCDMI025,FLUEXPCON,PCA
+NCDMI025,FLUINVITE1,PCA
+NCDMI025,Number of patients aged 18 years or over in long stay residential or homes,DEN
+NCDMI025,"Of the denominator, the number of patients who received a seasonal influenza vaccination on or after 1 September and up to and including the end of the reporting period.",NUM
+NCDMI025,XFLU_DAT,PCA
+NCDMI026,FLUDEC_DAT,PCA
+NCDMI026,FLUEXPCON,PCA
+NCDMI026,FLUINVITE1,PCA
+NCDMI026,LD_DAT,EXC
+NCDMI026,Number of patients on the QOF Learning Disability register aged 18 years or over,DEN
+NCDMI026,"Of the denominator, the number of patients who received a seasonal influenza vaccination on or after 1 September and up to and including the end of the reporting period.",NUM
+NCDMI026,PAT_AGEU18,EXC
+NCDMI026,XFLU_DAT,PCA
+NCDMI027,FLUDEC_DAT,PCA
+NCDMI027,FLUEXPCON,PCA
+NCDMI027,FLUINVITE1,PCA
+NCDMI027,MH_MHREM,EXC
+NCDMI027,NATRISKU18,EXC
+NCDMI027,"Number of patients on the QOF Mental Health register for schizophrenia, bipolar affective disorder and other psychoses (MH1) aged 65 years or over, or aged 18 to 64 years inclusive and in a clinical at-risk group.",DEN
+NCDMI027,"Of the denominator, the number of patients who received a seasonal influenza vaccination on or after 1 September and up to and including the end of the reporting period.",NUM
+NCDMI027,XFLU_DAT,PCA
+NCDMI028,HLTHCHKDEC,PCA
+NCDMI028,LD_DAT,EXC
+NCDMI028,Number of patients aged 14 years or over on the QOF Learning Disability register,DEN
+NCDMI028,"Of the denominator, the number of patients who received a Learning Disability Annual Health Check by the end of the reporting period",NUM
+NCDMI028,PAT_AGEU14,EXC
+NCDMI029,"Of the denominator, the number of patients who received a medication review from a Clinical Pharmacist by the end of the reporting period",NUM
+NCDMI029,Total number of Registered Patients,DEN
+NCDMI030,Number of medication reviews delivered to patients in the denominator by a Clinical Pharmacist by the end of the reporting period.,NUM
+NCDMI030,Total number of Registered Patients,DEN
+NCDMI031,"Number of Care Home residents aged 18 or over in the reporting period (Definition in PCNMI039), excluding temporary care home residents",DEN
+NCDMI031,Number of care home visits undertaken by a Clinical Pharmacist by the end of the reporting period,NUM
+NCDMI032,"Of the denominator, the number of patients who had a care home visit undertaken by a Clinical Pharmacist by the end of the reporting period",NUM
+NCDMI032,"Total number of Care Home residents aged 18 or over in the reporting period (Definition in PCNMI039), excluding temporary care home residents",DEN
+NCDMI033,Number of consultations delivered to patients in the denominator by a Clinical Pharmacist by the end of the reporting period,NUM
+NCDMI033,Total number of Registered Patients,DEN
+NCDMI034,"Of the denominator, the number of patients seen at least once by a Clinical Pharmacist by the end of the reporting period",NUM
+NCDMI034,Total number of Registered Patients,DEN
+NCDMI035,Number of consultations delivered to patients in the denominator by a First Contact Physiotherapist by the end of the reporting period,NUM
+NCDMI035,Total number of Registered Patients,DEN
+NCDMI036,"Of the denominator, the number of patients seen at least once by a First Contact Physiotherapist by the end of the reporting period",NUM
+NCDMI036,Total number of Registered Patients,DEN
+NCDMI037,Number of consultations delivered to patients in the denominator by a Physician Associate by the end of the reporting period,NUM
+NCDMI037,Total number of Registered Patients,DEN
+NCDMI038,"Of the denominator, the number of patients seen at least once by a Physician Associate by the end of the reporting period",NUM
+NCDMI038,Total number of Registered Patients,DEN
+NCDMI039,Number of consultations delivered to patients in the denominator by a Health and Wellbeing Coach by the end of the reporting period,NUM
+NCDMI039,Total number of Registered Patients,DEN
+NCDMI040,"Of the denominator, the number of patients seen at least once by a Health and Wellbeing Coach by the end of the reporting period",NUM
+NCDMI040,Total number of Registered Patients,DEN
+NCDMI041,Number of consultations delivered to patients in the denominator by a Care Coordinator by the end of the reporting period,NUM
+NCDMI041,Total number of Registered Patients,DEN
+NCDMI042,"Of the denominator, the number of patients seen at least once by a Care Coordinator by the end of the reporting period",NUM
+NCDMI042,Total number of Registered Patients,DEN
+NCDMI043,Number of consultations delivered to patients in the denominator by a Dietitian by the end of the reporting period,NUM
+NCDMI043,Total number of Registered Patients,DEN
+NCDMI044,"Of the denominator, the number of patients seen at least once by a Dietitian by the end of the reporting period",NUM
+NCDMI044,Total number of Registered Patients,DEN
+NCDMI045,Number of consultations delivered to patients in the denominator by a Podiatrist by the end of the reporting period,NUM
+NCDMI045,Total number of Registered Patients,DEN
+NCDMI046,"Of the denominator, the number of patients seen at least once by a Podiatrist by the end of the reporting period",NUM
+NCDMI046,Total number of Registered Patients,DEN
+NCDMI047,Number of consultations delivered to patients in the denominator by a Pharmacy Technician by the end of the reporting period,NUM
+NCDMI047,Total number of Registered Patients,DEN
+NCDMI048,"Of the denominator, the number of patients seen at least once by a Pharmacy Technician by the end of the reporting period",NUM
+NCDMI048,Total number of Registered Patients,DEN
+NCDMI049,Number of consultations delivered to patients in the denominator by an Occupational Therapist by the end of the reporting period,NUM
+NCDMI049,Total number of Registered Patients,DEN
+NCDMI050,"Of the denominator, the number of patients seen at least once by an Occupational Therapist by the end of the reporting period",NUM
+NCDMI050,Total number of Registered Patients,DEN
+NCDMI060,"Of the denominator, the number of patients recorded as having declined to provide their ethnicity in response to an explicit opportunity at the end of the reporting period.",NUM
+NCDMI060,Total number of registered patients.,DEN
+NCDMI061,CHD_DAT,EXC
+NCDMI061,CHOLMX_DAT,PCA
+NCDMI061,CVDPAL_DAT,UKN
+NCDMI061,Number of patients aged 25 to 84 years inclusive with CVD score (QRISK2 or 3) >= 10%.,DEN
+NCDMI061,"Of the denominator, the number who received a prescription for statins in the 6 months up to and including the end of the reporting period.",NUM
+NCDMI061,P_AGE25_84,EXC
+NCDMI061,QRISKVAL10,EXC
+NCDMI061,STATDECAW,PCA
+NCDMI061,STATINTOL,PCA
+NCDMI061,TXSTAT_DAT,PCA
+NCDMI061,XSTAT_DAT,PCA
+NCDMI063,"Of the denominator, the number of patients referred to a social prescribing service at any point in time up to the end of the reporting period, minus number of patients discharged from a social prescribing service (as captured by the social prescribing case closed code) at any point in time thereafter and up to the end of the reporting period.",NUM
+NCDMI063,Total number of Registered Patients,DEN
+NCDMI064,Number of patients with a long-term condition recorded.,DEN
+NCDMI064,"Of the denominator, the number of patients who had a shared decision-making conversation by the end of the reporting period.",NUM
+NCDMI064,PAT_AGEU18,EXC
+NCDMI068,Number of Structured Medication Reviews delivered to patients in the denominator by the end of the reporting period,NUM
+NCDMI068,PALCARDAT2,PCA
+NCDMI068,STRMEDRVDC,PCA
+NCDMI068,Total number of registered patients.,DEN
+NCDMI074,"Of the denominator, the number of patients prescribed opioids (irrespective of morphine equivalent dose) in the reporting period.",NUM
+NCDMI074,Total number of registered patients.,DEN
+NCDMI075,"Of the denominator, the number of patients who were prescribed oral or injected antimicrobials by the end of the reporting period.",NUM
+NCDMI075,Total number of registered patients.,DEN
+NCDMI076,"Of the denominator, the number of patients who were prescribed benzodiazepines by the end of the reporting period.",NUM
+NCDMI076,Total number of registered patients.,DEN
+NCDMI089,Number of salbutamol inhaler prescriptions by the end of the reporting period.,DEN
+NCDMI089,"Of the denominator, the number that were lower carbon.",NUM
+NCDMI101,NOBP_DAT,EXC
+NCDMI101,Number of patients aged 65 years or over who received a blood pressure check in general practice on or after the Quality Service Start Date and up to and including the reporting period end date.,DEN
+NCDMI101,"Of the denominator, the number for whom a pulse check was recorded on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI101,PAT_AGEU65,EXC
+NCDMI101,UNRESAFIB,EXC
+NCDMI102,BTHPALDIZC,EXC
+NCDMI102,"Number of patients aged 18 years or over who were recorded on or after the Quality Service Start Date and up to and including the reporting period end date as experiencing breathlessness, palpitations, syncope, dizziness, or chest discomfort.",DEN
+NCDMI102,"Of the denominator, the number for whom a pulse check was recorded on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI102,PAT_AGEU18,EXC
+NCDMI102,UNRESAFIB,EXC
+NCDMI103,NOIRREGPLS,EXC
+NCDMI103,Number of patients aged 65 years or over who were identified as having an irregular pulse.,DEN
+NCDMI103,"Of the denominator, the number who received an electrocardiogram or were referred for an electrocardiogram.",NUM
+NCDMI103,PAT_AGEU65,EXC
+NCDMI103,UNRESAFIB,EXC
+NCDMI104,AFIBL3M,PCA
+NCDMI104,ANTIPHOS,PCA
+NCDMI104,CHADSFU2,EXC
+NCDMI104,DOACCON,PCA
+NCDMI104,DOACDEC,PCA
+NCDMI104,DOACNITTR,PCA
+NCDMI104,GENORANTID,PCA
+NCDMI104,MECHVALREP,EXC
+NCDMI104,NOAFIBDIAG,EXC
+NCDMI104,Number of patients on the QOF Atrial Fibrillation register and with a CHA2DS2-VASc score of 2 or more (1 or more for patients that are not female).,DEN
+NCDMI104,"Of the denominator, the number who in the 6 months to the reporting period end date were prescribed a direct-acting oral anticoagulant (DOAC).",NUM
+NCDMI104,TXORANTICO,PCA
+NCDMI104,XORANTICO,PCA
+NCDMI105,"Number of patients currently being seen by a social prescribing service (total number of patients referred to social prescribing at any point in time up to the end of the reporting period, minus (of that number), the total number of patients with social prescribing case closed recorded at any point in time thereafter and without a subsequent referral to a social prescribing service, up to the end of the reporting period).",DEN
+NCDMI105,"Of the denominator, the number of Social Prescribing Link Worker (or synonym) consultations on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI106,"Number of patients currently being seen by a social prescribing service (total number of patients referred to social prescribing at any point in time up to the end of the reporting period, minus (of that number), the total number of patients with social prescribing case closed recorded at any point in time thereafter and up to the end of the reporting period, and without a subsequent referral to a social prescribing service).",DEN
+NCDMI106,"Of the denominator, the number of General Practitioner consultations on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI107,"Number of patients currently being seen by a social prescribing service (total number of patients referred to social prescribing at any point in time up to the end of the reporting period, minus (of that number), the total number of patients with social prescribing case closed recorded at any point in time thereafter and up to the end of the reporting period. and without a subsequent referral to a social prescribing service).",DEN
+NCDMI107,"Of the denominator, the number who had at least one consultation with a Social Prescribing Link Worker (or synonym) on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI108,"Of the denominator, the number of General Practitioner consultations on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI108,Total number of registered patients.,DEN
+NCDMI109,"Number of patients currently being seen by a social prescribing service (total number of patients referred to social prescribing at any point in time up to the end of the reporting period, minus (of that number), the total number of patients with social prescribing case closed recorded at any point in time thereafter and up to the end of the reporting period. and without a subsequent referral to a social prescribing service).",DEN
+NCDMI109,"Of the denominator, the total number of consultations on or after the Quality Service Start Date and up to and including the reporting period end date, irrespective of the HCP type of the staff member delivering the consultation.",NUM
+NCDMI110,"Of the denominator, the number of consultations on or after the Quality Service Start Date and up to and including the reporting period end date, irrespective of the HCP type of the staff member delivering the consultation.",NUM
+NCDMI110,Total number of Registered Patients.,DEN
+NCDMI112,Number of care home residents aged 18 years or over (patients recorded as living in a residential home or nursing home).,DEN
+NCDMI112,NURSHOME,EXC
+NCDMI112,"Of the denominator, the number on the QOF Dementia Register.",NUM
+NCDMI112,PAT_AGEU18,EXC
+NCDMI113,LATNURSPER,EXC
+NCDMI113,Number of permanent care home residents aged 18 years or over.,DEN
+NCDMI113,"Of the denominator, the number with a recording of a preferred place of death.",NUM
+NCDMI113,PAT_AGEU18,EXC
+NCDMI114,CARHOMDEC1,PCA
+NCDMI114,Number of care home residents aged 18 years or over.,DEN
+NCDMI114,Number of meetings by multidisciplinary team held in relation to patients in the denominator.,NUM
+NCDMI114,NURSHOME,EXC
+NCDMI114,PAT_AGEU18,EXC
+NCDMI116,NONSAID3M,EXC
+NCDMI116,Number of patients aged 65 years or over prescribed an oral NSAID.,DEN
+NCDMI116,"Of the denominator, the number not concurrently prescribed a gastro-protective.",NUM
+NCDMI116,PAT_AGEU65,EXC
+NCDMI117,NONSAID3M,EXC
+NCDMI117,Number of patients aged 18 years or over with a history of peptic ulceration prescribed an oral NSAID.,DEN
+NCDMI117,"Of the denominator, the number not concurrently prescribed a gastro-protective.",NUM
+NCDMI117,PAT_AGEU18,EXC
+NCDMI117,PEPULCB3M,EXC
+NCDMI118,NOANTIPLT,EXC
+NCDMI118,Number of patients aged 18 years or over with a history of peptic ulceration and prescribed an anti-platelet.,DEN
+NCDMI118,"Of the denominator, the number not concurrently prescribed a gastro-protective.",NUM
+NCDMI118,PAT_AGEU18,EXC
+NCDMI118,PEPULCB3M,EXC
+NCDMI119,ANTICOAG3M,EXC
+NCDMI119,Number of patients aged 18 years or over prescribed an oral anticoagulant.,DEN
+NCDMI119,"Of the denominator, the number concurrently prescribed an oral NSAID.",NUM
+NCDMI119,PAT_AGEU18,EXC
+NCDMI120,ANTICOAG3M,EXC
+NCDMI120,NOCOAGPLAT,EXC
+NCDMI120,Number of patients aged 18 years or over prescribed an oral anticoagulant and an anti-platelet within 28 days of each other at any point up to the end of the reporting period.,DEN
+NCDMI120,"Of the denominator, the number who were not concurrently prescribed a gastro-protective, where concurrency is defined as the prescription of a gastro-protective within 3 months of the latest element of their latest oral anticoagulant/anti-platelet prescription combination.",NUM
+NCDMI120,PAT_AGEU18,EXC
+NCDMI121,ASPIRIN3M,EXC
+NCDMI121,NOASPLAT3M,EXC
+NCDMI121,Number of patients aged 18 years or over prescribed aspirin (irrespective of dose/strength) and another anti-platelet within 28 days of each other at any point up to the end of the reporting period.,DEN
+NCDMI121,"Of the denominator, the number who were not concurrently prescribed a gastro-protective, where concurrency is defined as the prescription of a gastro-protective within 3 months of the latest element of their latest aspirin/anti-platelet prescription combination.",NUM
+NCDMI121,PAT_AGEU18,EXC
+NCDMI122,HFB3M_DAT,EXC
+NCDMI122,HFRESLAT,EXC
+NCDMI122,Number of patients aged 18 years or over with a current diagnosis of heart failure.,DEN
+NCDMI122,"Of the denominator, the number prescribed an oral NSAID.",NUM
+NCDMI122,PAT_AGEU18,EXC
+NCDMI123,EGFRB3ML45,EXC
+NCDMI123,Number of patients aged 18 years or over with a latest recorded eGFR less than 45.,DEN
+NCDMI123,"Of the denominator, the number prescribed an oral NSAID.",NUM
+NCDMI123,PAT_AGEU18,EXC
+NCDMI124,ASTB3M_DAT,EXC
+NCDMI124,ASTRESLAT,EXC
+NCDMI124,Number of patients aged 18 years or over on the QOF Asthma Register.,DEN
+NCDMI124,"Of the denominator, the number prescribed a non-selective beta-blocker.",NUM
+NCDMI124,PAT_AGEU18,EXC
+NCDMI125,"Of the denominator, the number under the care of Anticipatory Care service.",NUM
+NCDMI125,Total number of registered patients.,DEN
+NCDMI126,"Of the denominator, the number who declined an offer of Anticipatory Care.",NUM
+NCDMI126,Total number of registered patients.,DEN
+NCDMI127,"Of the denominator, the number discharged from Anticipatory Care service.",NUM
+NCDMI127,Total number of registered patients.,DEN
+NCDMI129,FLUDEC_DAT,PCA
+NCDMI129,FLUEXPCON,PCA
+NCDMI129,FLUINVITE1,PCA
+NCDMI129,N_AT_RISK,EXC
+NCDMI129,"Number of patients aged 18 to 64 years inclusive, and recorded as being from an ethnic minority, and in one or more of the following at-risk groups subject to the new national call and recall system:
+Chronic respiratory disease.
+Chronic heart disease.
+Chronic kidney disease.
+Chronic liver disease.
+Chronic neurological disease.
+Learning disabilities
+Diabetes.
+Immunosuppression.
+Asplenia or dysfunction of the spleen.
+Morbidly obese.
+People in long stay residential or homes.",DEN
+NCDMI129,"Of the denominator, the number who received a seasonal influenza vaccination between 1 September and 31 March between the Quality Service Start Date and the end of the reporting period.",NUM
+NCDMI129,P_AGE18_64,EXC
+NCDMI129,PAT_ETHWNS,EXC
+NCDMI129,XFLU_DAT,PCA
+NCDMI130,C19CON_DAT,PCA
+NCDMI130,C19DEC_DAT,PCA
+NCDMI130,Number of registered patients aged 16 or over.,DEN
+NCDMI130,"Of the denominator, the number that have received a second dose of a Covid 19 vaccine.",NUM
+NCDMI130,PAT_AGEU16,EXC
+NCDMI131,C19CON_DAT,PCA
+NCDMI131,C19DEC_DAT,PCA
+NCDMI131,Number of registered patients aged 16 years or over and recorded as being from an ethnic minority.,DEN
+NCDMI131,"Of the denominator, the number that have received a second dose of a Covid 19 vaccination.",NUM
+NCDMI131,PAT_AGEU16,EXC
+NCDMI131,PAT_ETHWNS,EXC
+NCDMI132,ABPDEC12M,PCA
+NCDMI132,ABPDEC24M,PCA
+NCDMI132,BPLAT_1,EXC
+NCDMI132,BPLAT_2,EXC
+NCDMI132,BPLAT_DAT3,PCA
+NCDMI132,BPLAT6M,PCA
+NCDMI132,HYPLATUNR,EXC
+NCDMI132,"Number of patients aged 18 years or over, recorded as being from an ethnic minority, not on the QOF Hypertension Register as of 31 March 2022, and who have (i) a last recorded blood pressure reading in the 2 years prior to 1 April 2022 >= 140/90mmHg OR (ii) a blood pressure reading >= 140/90mmHg on or after 1 April 2022.",DEN
+NCDMI132,"Number of patients aged 18 years or over, recorded as being from an ethnic minority, not on the QOF Hypertension Register as of 31 March 2023, and who have (i) a last recorded blood pressure reading in the 3years prior to 1 April 2023>= 140/90mmHg with the exception of patients whose first blood pressure (BP) reading >= 140/90mmHg in this period is on or after 1 October 2022OR (ii) a blood pressure reading >= 140/90mmHg on or after 1 October 2022",DEN
+NCDMI132,"Of the denominator, the number for whom there is evidence of clinically appropriate follow-up* to confirm or exclude a diagnosis of hypertension (by 31 March for (i) and within 6 months for (ii)).",NUM
+NCDMI132,PALCARDAT2,EXC
+NCDMI132,PALCARE,EXC
+NCDMI132,PAT_AGEU18,EXC
+NCDMI132,PAT_ETHWNS,EXC
+NCDMI132,PRELAT6M,UKN
+NCDMI133,BPDEC1,PCA
+NCDMI133,Number of patients aged 45 years or over and recorded as being from an ethnic minority.,DEN
+NCDMI133,"Of the denominator, the number with a record of blood pressure in the preceding 5 years.",NUM
+NCDMI133,PAT_AGEU45,EXC
+NCDMI133,PAT_ETHWNS,EXC
+NCDMI133,REGL3M_DAT,PCA
+NCDMI134,MH_MHREM,EXC
+NCDMI134,"Of the denominator, the number who received all six elements of the Physical Health Check for people with Severe Mental Illness.",NUM
+NCDMI134,SMOKORDEC,PCA
+NCDMI134,"Total number of registered patients with a diagnosis of schizophrenia, bipolar affective disorder and other psychoses.",DEN
+NCDMI135,MH_MHREM,EXC
+NCDMI135,"Of the denominator, the number who received all six elements of the Physical Health Check for people with Severe Mental Illness.",NUM
+NCDMI135,PAT_ETHWNS,EXC
+NCDMI135,SMOKORDEC,PCA
+NCDMI135,"Total number of registered patients with a diagnosis of schizophrenia, bipolar affective disorder and other psychoses and recorded as being from an ethnic minority.",DEN
+NCDMI136,Number of registered patients with a Type 1 Opt Out.,NUM
+NCDMI137,Number of patients recorded as having a diagnosis of autism.,NUM
+NCDMI138,The number of encounters with patients in the denominator by a Clinical Pharmacist by the end of the reporting period.,NUM
+NCDMI138,Total number of Registered Patients.,DEN
+NCDMI139,"Of the denominator, the number who had at least one encounter with a Clinical Pharmacist by the end of the reporting period.",NUM
+NCDMI139,Total number of Registered Patients.,DEN
+NCDMI140,The number of encounters with patients in the denominator by a First Contact Physiotherapist by the end of the reporting period.,NUM
+NCDMI140,Total number of Registered Patients.,DEN
+NCDMI141,"Of the denominator, the number who had at least one encounter with a First Contact Physiotherapist by the end of the reporting period.",NUM
+NCDMI141,Total number of Registered Patients.,DEN
+NCDMI142,Number of encounters with patients in the denominator by a Physician Associate by the end of the reporting period.,NUM
+NCDMI142,Total number of Registered Patients.,DEN
+NCDMI143,"Of the denominator, the number who had at least one encounter with a Physician Associate by the end of the reporting period.",NUM
+NCDMI143,Total number of Registered Patients.,DEN
+NCDMI144,The number of encounters with patients in the denominator by a Dietitian by the end of the reporting period.,NUM
+NCDMI144,Total number of Registered Patients.,DEN
+NCDMI145,"Of the denominator, the number who had at least one encounter with a Dietitian by the end of the reporting period.",NUM
+NCDMI145,Total number of Registered Patients.,DEN
+NCDMI146,The number of encounters with patients in the denominator by a Podiatrist by the end of the reporting period.,NUM
+NCDMI146,Total number of Registered Patients.,DEN
+NCDMI147,"Of the denominator, the number who had at least one encounter with a Podiatrist the end of the reporting period.",NUM
+NCDMI147,Total number of Registered Patients.,DEN
+NCDMI148,The number of encounters with patients in the denominator by a Pharmacy Technician by the end of the reporting period.,NUM
+NCDMI148,Total number of Registered Patients.,DEN
+NCDMI149,"Of the denominator, the number who had at least one encounter with a Pharmacy Technician by the end of the reporting period.",NUM
+NCDMI149,Total number of Registered Patients.,DEN
+NCDMI150,The number of encounters with patients in the denominator by an Occupational Therapist by the end of the reporting period.,NUM
+NCDMI150,Total number of Registered Patients.,DEN
+NCDMI151,"Of the denominator, the number seen who had at least one encounter with an Occupational Therapist by the end of the reporting period.",NUM
+NCDMI151,Total number of Registered Patients.,DEN
+NCDMI152,The number of encounters with patients in the denominator by a Social Prescribing Link Worker by the end of the reporting period.,NUM
+NCDMI152,Total number of Registered Patients.,DEN
+NCDMI153,"Of the denominator, the number who had at least one encounter with a Social Prescribing Link Worker by the end of the reporting period.",NUM
+NCDMI153,Total number of Registered Patients.,DEN
+NCDMI154,The number of encounters with patients in the denominator by a Health and Wellbeing Coach by the end of the reporting period.,NUM
+NCDMI154,Total number of Registered Patients.,DEN
+NCDMI155,"Of the denominator, the number who had at least one encounter with a Health and Wellbeing Coach by the end of the reporting period.",NUM
+NCDMI155,Total number of Registered Patients.,DEN
+NCDMI156,The number of encounters with patients in the denominator by a Care Coordinator by the end of the reporting period.,NUM
+NCDMI156,Total number of Registered Patients.,DEN
+NCDMI157,"Of the denominator, the number who had at least one encounter with a Care Coordinator by the end of the reporting period.",NUM
+NCDMI157,Total number of Registered Patients.,DEN
+NCDMI158,The number of encounters with patients in the denominator by a Trainee Nursing Associate by the end of the reporting period.,NUM
+NCDMI158,Total number of Registered Patients.,DEN
+NCDMI159,"Of the denominator, the number who had at least one encounter with a Trainee Nursing Associate by the end of the reporting period.",NUM
+NCDMI159,Total number of Registered Patients.,DEN
+NCDMI160,The number of encounters with patients in the denominator by a Nursing Associate by the end of the reporting period.,NUM
+NCDMI160,Total number of Registered Patients.,DEN
+NCDMI161,"Of the denominator, the number who had at least one encounter with a Nursing Associate by the end of the reporting period.",NUM
+NCDMI161,Total number of Registered Patients.,DEN
+NCDMI162,The number of encounters with patients in the denominator by a Paramedic by the end of the reporting period.,NUM
+NCDMI162,Total number of Registered Patients.,DEN
+NCDMI163,"Of the denominator, the number who had at least one encounter with a Paramedic by the end of the reporting period.",NUM
+NCDMI163,Total number of Registered Patients.,DEN
+NCDMI164,The number of encounters with patients in the denominator by a Mental Health Practitioner by the end of the reporting period.,NUM
+NCDMI164,Total number of Registered Patients.,DEN
+NCDMI165,"Of the denominator, the number who had at least one encounter with a Mental Health Practitioner by the end of the reporting period.",NUM
+NCDMI165,Total number of Registered Patients.,DEN
+NCDMI166,Number of times that patients in the denominator declined a referral to the Community Pharmacist Consultation Service.,NUM
+NCDMI166,Total number of Registered Patients.,DEN
+NCDMI167,CARHOMDEC1,PCA
+NCDMI167,CARHOMNP18,EXC
+NCDMI167,Number of permanent care home residents aged 18 years or over.,DEN
+NCDMI167,"Of the denominator, the number who received a falls risk assessment on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI170,CARHOMDEC1,PCA
+NCDMI170,LATNURSPER,EXC
+NCDMI170,Number of permanent care home residents aged 18 years or over.,DEN
+NCDMI170,"Of the denominator, the number who received a psychosocial assessment on or after the Quality Service Start Date and up to and including the reporting period end date.",NUM
+NCDMI170,PAT_AGEU18,EXC
+NCDMI171,NOACELOOP,EXC
+NCDMI171,Number of patients aged 75 years or over with a long-term prescription of angiotensin converting enzyme (ACE) inhibitor or a loop diuretic.,DEN
+NCDMI171,"Of the denominator, the number without a renal function and electrolytes recorded in the last 15 months.",NUM
+NCDMI171,PAT_AGEU75,EXC
+NCDMI172,NOMETH3M6M,EXC
+NCDMI172,Number of patients aged 18 years or over prescribed methotrexate for at least 3 months.,DEN
+NCDMI172,"Of the denominator, the number without a recorded full blood count (FBC) in the 3 months to the reporting period end date.",NUM
+NCDMI172,PAT_AGEU18,EXC
+NCDMI173,NOMETH3M6M,EXC
+NCDMI173,Number of patients aged 18 years or over prescribed methotrexate for at least 3 months.,DEN
+NCDMI173,"Of the denominator, the number without a recorded liver function test (LFT) in the 3 months to the reporting period end date.",NUM
+NCDMI173,PAT_AGEU18,EXC
+NCDMI174,NOLIT3M6M,EXC
+NCDMI174,Number of patients aged 18 years or over prescribed lithium for at least 3 months.,DEN
+NCDMI174,"Of the denominator, the number without a recorded lithium concentration check in the 3 months to the reporting period end date.",NUM
+NCDMI174,PAT_AGEU18,EXC
+NCDMI175,NOAMIO12M,EXC
+NCDMI175,Number of patients aged 18 years or over prescribed amiodarone for at least 6 months.,DEN
+NCDMI175,"Of the denominator, the number without a thyroid function test (TSH) in the 6 months to the reporting period end date.",NUM
+NCDMI175,PAT_AGEU18,EXC
+NCDMI176,CHOLMX_DAT,UKN
+NCDMI176,CVDPAL_DAT,UKN
+NCDMI176,Number of patients aged 25 to 84 years inclusive with CVD score (QRISK2 or 3) > 20%.,DEN
+NCDMI176,"Of the denominator, the number who were prescribed statins in the six months to the end of the reporting period.",NUM
+NCDMI176,P_AGE25_84,UKN
+NCDMI176,QRISKVAL20,UKN
+NCDMI176,STATDECAW,UKN
+NCDMI176,STATINTOL,UKN
+NCDMI176,TXSTAT_DAT,UKN
+NCDMI176,XSTAT_DAT,UKN
+NCDMI177,AST_DAT9M,UKN
+NCDMI177,ASTRES_DAT,UKN
+NCDMI177,MILDINTAST,UKN
+NCDMI177,Number of patients on the QOF Asthma Register at the end of the reporting period.,DEN
+NCDMI177,"Of the denominator, the number who received three or more inhaled corticosteroid (ICS, inclusive of ICS/LABA) prescriptions over the previous 12 months.",NUM
+NCDMI178,ASTRES_DAT,UKN
+NCDMI178,EUNRESCOAS,UKN
+NCDMI178,Number of patients on the QOF Asthma Register at the end of the reporting period.,DEN
+NCDMI178,"Of the denominator, the number receiving 6 or more Short Acting Beta-2 Agonist (SABA) inhaler prescription items (not quantity) in the previous 12 months.",NUM
+NCDMI180,MEDRVWDEC,UKN
+NCDMI180,NOMEDERR1,UKN
+NCDMI180,"Of the denominator, the number who received a Structured Medication Review on or after QSSD and up to and including RPED.",NUM
+NCDMI180,PALCARDAT2,UKN
+NCDMI180,PAT_AGEU18,UKN
+NCDMI180,Total number of patients at risk of harm due to medication errors.,DEN
+NCDMI181,"Of the denominator, the number who received a Structured Medication Review on or after QSSD and up to and including RPED.",NUM
+NCDMI181,PALCARDAT2,UKN
+NCDMI181,SEVFRAIL2,UKN
+NCDMI181,STRMEDRVDC,UKN
+NCDMI181,Total number of patients recorded on the GP system as living with severe frailty,DEN
+NCDMI182,HLTHAPDEC,PCA
+NCDMI182,HLTHCHKDEC,PCA
+NCDMI182,LD_DAT,EXC
+NCDMI182,Number of patients on the QOF Learning Disability register aged 14 years or over.,DEN
+NCDMI182,"Of the denominator, the number who received an annual Learning Disability Health Check and a Health Action Plan by the end of the reporting period.",NUM
+NCDMI182,PAT_AGEU14,UKN
+NCDMI188,"Of the denominator, the number of patients who received a Structured Medication Review on or after QSSD and up to and including RPED.",NUM
+NCDMI188,PALCARDAT2,UKN
+NCDMI188,STRMEDRVDC,UKN
+NCDMI188,"Total number of patients using potentially addictive medicines, defined as patients falling into either one or both of the following sub-cohorts: 1.Patients with 2 or more prescriptions over a 3-month* period (both of which must have occurred after the quality service start date) for any of the following four classes of medicine: a.Gabapentinoids. b.Benzodiazepines. c.Z-drugs. d.Any oral or transdermal opioid other than:i.Weak opioids (Codeine, Dihydrocodeine, Meptazinol).ii.Heroin substitutes (including Methadone, Buprenorphine). 2.Patients with a single prescription for an oral or transdermal opioid with > 120 mg morphine equivalent",DEN
+NCDMI189,CARHOMDEC1,UKN
+NCDMI189,CARHOMNP18,UKN
+NCDMI189,Number of permanent care home residents aged 18 years or over (patients recorded as living in a residential home or nursing home and not subsequently recorded as being temporary care home residents).,DEN
+NCDMI189,"Of the denominator, the number of patients who received at least one Structured Medication Review by the end of the reporting period",NUM
+NCDMI189,PALCARDAT2,UKN
+NCDMI189,STRMEDRVDC,UKN
+NCDMI198,CARHOMDEC1,UKN
+NCDMI198,Mean number of patient contacts as part of weekly care home round per care home resident aged 18 years or over,NUM
+NCDMI198,Number of patients aged 18 years or over recorded as living in a care home (GPES).,DEN
+NCDMI198,NURSHOME,UKN
+NCDMI198,PAT_AGEU18,UKN
+NCDMI199,FLUDEC_DAT,UKN
+NCDMI199,FLUEXPCON,UKN
+NCDMI199,FLUINVITE1,UKN
+NCDMI199,Number of patients aged 65 years or over.,DEN
+NCDMI199,"Of the denominator, the number who received a seasonal influenza vaccination between 1 September and 31 March and by the end of the reporting period.",NUM
+NCDMI199,PAT_AGEU65,UKN
+NCDMI199,XFLU_DAT,UKN
+NCDMI200,"Of the denominator, the number with a recording of ethnicity on their patient record at the end of the reporting period.",NUM
+NCDMI200,Total number of registered patients.,DEN
+NCDMI205,CHOLDEC,UKN
+NCDMI205,NOCVDDIAG,UKN
+NCDMI205,"Number of patients on the QOF Coronary Heart Disease, Peripheral Arterial Disease, or Stroke/TIA Register",DEN
+NCDMI205,"Of the denominator, the number who have a recording of non-HDL cholesterol in the preceding 12 months that is lower than 2.5 mmol/L or where non-HDL cholesterol is not recorded then a recording of LDL cholesterol in the preceding 12 months that is lower than 1.8 mmol/L. NB the numerator should not include people with no recorded non-HDL or LDL cholesterol in the preceding 12 months",NUM
+NCDMI996,Number of patients aged 18 years or over recorded as living in a care home.,NUM
+NCDMI997,Patient age is less than 18 years at the quality service end date.,NUM
+NCDMI998,"Patients whose latest housing status was not recorded as a permanent resident in a residential or nursing home or temporary resident in a care home, up to and including the achievement date.",NUM
+NCDMI999,"Patients who have the registration with general practitioner practice aligned to care home declined code, recorded up to and including the achievement date.",NUM
